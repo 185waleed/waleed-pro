@@ -45,7 +45,7 @@ const Login = () => {
                 borderRadius: 15,
                 backgroundColor: 'white',
               }}
-              placeholder="Waleeedproj"
+              placeholder="rock@gmail.com "
             />
           </View>
           <View style={{height: 70, width: '100%'}}>
